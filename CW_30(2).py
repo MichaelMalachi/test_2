@@ -1,4 +1,4 @@
-for i in range(10):
+for i in range(250):
     if i % 2 == 0:
         print(i)
 
