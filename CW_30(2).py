@@ -4,3 +4,5 @@ for i in range(51):
 
 
 print(123)
+
+print(1236)
